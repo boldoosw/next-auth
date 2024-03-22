@@ -7,3 +7,5 @@ const AuthProvider = ({ children }: any) => {
 };
 
 export default AuthProvider;
+
+//mongo holbogdoh real time zaslaa
