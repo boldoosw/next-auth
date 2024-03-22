@@ -4,7 +4,7 @@ import User from "@/models/User";
 
 import { Account, User as AuthUser } from "next-auth";
 
-export const authOptions: any = {
+ const authOptions: any = {
   // Configure one or more authentication providers
   providers: [
     CredentialsProvider({
